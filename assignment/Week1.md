@@ -103,32 +103,42 @@
 
 ## 02-2. 편리한 엑셀 문서 작업을 위한 실력 다지기
 > **셀 병합하지 않고 가운데 정렬하(75 ~77p)를 진행 후 인증사진을 첨부해주세요.**
-<!-- 이 부분을 지우고 인증사진을 제출해주세요.-->
+<img width="1918" height="964" alt="셀 병합하지 않고 가운데 정렬하기" src="https://github.com/user-attachments/assets/f63ed739-b3c3-4867-a4f0-deef30706a1e" />
+
 
 > **셀 병합 해제 후 빈칸 쉽게 체우기(78 ~79p)를 진행 후 인증사진을 첨부해주세요.**
-<!-- 이 부분을 지우고 인증사진을 제출해주세요.-->
+<img width="1918" height="966" alt="셀 병합 해제 후 빈칸 쉽게 체우기" src="https://github.com/user-attachments/assets/fc89bca9-9462-49a4-913a-4a38bfce8b8e" />
+
 
 > **빈 셀을 한 번에 찾고 내용 입력하기(80 ~81p)를 진행 후 인증사진을 첨부해주세요.**
-<!-- 이 부분을 지우고 인증사진을 제출해주세요.-->
+<img width="1918" height="970" alt="빈 셀을 한 번에 찾고 내용 입력하기" src="https://github.com/user-attachments/assets/2663c070-75e5-467e-ad8e-319771bda36a" />
+
 
 > **숫자 데이터의 기본 단위를 한 번에 바꾸는 방법(84 ~87p)를 진행 후 인증사진을 첨부해주세요.**
-<!-- 이 부분을 지우고 인증사진을 제출해주세요.-->
+<img width="959" height="485" alt="숫자 데이터의 기본 단위를 한 번에 바꾸는 방법1" src="https://github.com/user-attachments/assets/f67266cd-14a2-4a8d-b623-495a653aedd5" />
+
+<img width="1918" height="967" alt="숫자 데이터의 기본 단위를 한 번에 바꾸는 방법2" src="https://github.com/user-attachments/assets/7f78b461-7ed4-4eb1-b8f2-75d505207a5a" />
+
 
 
 ## 02-3. 엑셀로 시작하는 기초 데이터 분석
 > **행/열 전환하여 새로운 관점으로 데이터 살펴보기(88 ~90p)를 진행 후 인증사진을 첨부해주세요.**
-<!-- 이 부분을 지우고 인증사진을 제출해주세요.-->
+<img width="1918" height="970" alt="행열 전환하여 새로운 관점으로 데이터 살펴보기" src="https://github.com/user-attachments/assets/953c42c5-a22b-478e-82a6-39b0033a5d78" />
+
 
 > **중복된 데이터 입력 제한하기(90 ~92p)를 진행 후 인증사진을 첨부해주세요.**
-<!-- 이 부분을 지우고 인증사진을 제출해주세요.-->
+<img width="1918" height="1012" alt="중복된 데이터 입력 제한하기" src="https://github.com/user-attachments/assets/5bf81025-13d7-4278-9d6e-d81577558845" />
+
 
 
 ## 02-4. 엑셀 데이터 가공을 위한 텍스트 나누고 합치기
 > **여러 줄을 한 줄로 합치거나 한 줄을 여러 줄로 분리하기(104 ~107p)를 진행 후 인증사진을 첨부해주세요.**
-<!-- 이 부분을 지우고 인증사진을 제출해주세요.-->
+<img width="1918" height="1011" alt="여러 줄을 한 줄로 합치거나 한 줄을 여러 줄로 분리하기2" src="https://github.com/user-attachments/assets/c486b98a-b9d8-4ecf-95bf-7f8f60d52e2e" />
+
 
 > **여러 열에 입력된 내용을 간단하게 한 열로 합치기(108 ~109p)를 진행 후 인증사진을 첨부해주세요.**
-<!-- 이 부분을 지우고 인증사진을 제출해주세요.-->
+<img width="1918" height="1012" alt="여러 열에 입력된 내용을 간단하게 한 열로 합치기" src="https://github.com/user-attachments/assets/a24ab3df-2e6b-4eea-998a-14c7f638bdc0" />
+
 
 ---
 
