@@ -41,34 +41,38 @@
 
 ## 03-1. 반드시 숙지해야 할 셀 서식 기초
 > **표시 형식은 걸으로 보이는 형식만 바꾼다(113 ~ 115p)를 진행 후 인증사진을 첨부해주세요.**
-<!-- 이 부분을 지우고 인증사진을 제출해주세요.-->
+<img width="959" height="506" alt="image" src="https://github.com/user-attachments/assets/b6c4f4ef-b3f9-4d21-8dc7-1bff573317ba" />
+
 
 > **세미콜론으로 양수, 음수, 0, 텍스트 서식을 구분한다(115 ~ 117p)를 진행 후 인증사진을 첨부해주세요.**
-<!-- 이 부분을 지우고 인증사진을 제출해주세요.-->
+<img width="959" height="505" alt="image" src="https://github.com/user-attachments/assets/cdef369f-c3f5-45b5-98d8-a652b19a1f42" />
 
 
 ## 03-2. 실무자를 위한 셀 표시 형식 대표 예제
 > **0 지우거나 하이픈[-]으로 표시하기(119 ~121p)를 진행 후 인증사진을 첨부해주세요.**
-<!-- 이 부분을 지우고 인증사진을 제출해주세요.-->
+<img width="959" height="505" alt="image" src="https://github.com/user-attachments/assets/c5c88bdd-3f71-45c2-8203-732975afb5a4" />
+
 
 > **날짜를 년/월/일 [요일]로 표시하기(121 ~122p)를 진행 후 인증사진을 첨부해주세요.**
-<!-- 이 부분을 지우고 인증사진을 제출해주세요.-->
+<img width="959" height="503" alt="image" src="https://github.com/user-attachments/assets/72510561-4048-492e-9cf3-495d7833f1e5" />
 
 
 ## 03-3. 깔끔한 보고서 작성을 위한 기본 규칙
 > **깔끔한 보고서 완성하기(131 ~134p)를 진행 후 인증사진을 첨부해주세요.**
-<!-- 이 부분을 지우고 인증사진을 제출해주세요.-->
+<img width="959" height="491" alt="image" src="https://github.com/user-attachments/assets/119d572f-ca9e-4a6f-be0a-fb06bd8fa8f1" />
 
 
 ## 03-4. 조건부 서식으로 빠르게 데이터 분석하기
 > **특정 값보다 크거나 작을 때 강조하기(137 ~139p)를 진행 후 인증사진을 첨부해주세요.**
-<!-- 이 부분을 지우고 인증사진을 제출해주세요.-->
+
+
 
 > **조건을 만족할 때 전체 행 강조하기(141 ~142p)를 진행 후 인증사진을 첨부해주세요.**
-<!-- 이 부분을 지우고 인증사진을 제출해주세요.-->
+<img width="959" height="488" alt="image" src="https://github.com/user-attachments/assets/949bb6ae-e6c3-4f55-9dee-4366e6b8e98c" />
+
 
 > **여러 조건에 모두 만족하는 셀 강조하기(143 ~144p)를 진행 후 인증사진을 첨부해주세요.**
-<!-- 이 부분을 지우고 인증사진을 제출해주세요.-->
+<img width="959" height="505" alt="image" src="https://github.com/user-attachments/assets/98907890-69c8-4a5d-af14-2f73db5836dd" />
 
 
 ---
