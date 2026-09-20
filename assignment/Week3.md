@@ -57,17 +57,25 @@
 
 
 > **시트 내용을 수정하지 못하도록 보호하기(186 ~190p)를 진행 후 인증사진을 첨부해주세요.**
-<!-- 이 부분을 지우고 인증사진을 제출해주세요.-->
+<img width="959" height="506" alt="image" src="https://github.com/user-attachments/assets/14b55931-ec86-4c80-8fc7-08ee6e879864" />
+
+<img width="959" height="505" alt="image" src="https://github.com/user-attachments/assets/90b4405f-7709-4b05-a257-77266879f3cd" />
 
 
 ## 04-6. 실무자가 반드시 알아야 할 인쇄 설정 기본
 > **해당 내용(194 ~199p)를 진행 후 인증사진을 첨부해주세요.**
-<!-- 이 부분을 지우고 인증사진을 제출해주세요.-->
+<img width="958" height="490" alt="image" src="https://github.com/user-attachments/assets/b06d097e-9b04-477f-8df4-6bcf5cad33ee" />
+
+<img width="959" height="503" alt="image" src="https://github.com/user-attachments/assets/1f5b5175-f795-443f-8f82-1be70497ef85" />
+
+<img width="959" height="503" alt="image" src="https://github.com/user-attachments/assets/9e8d1386-b3be-4fe4-bc2d-0fabb325cca8" />
+
+<img width="959" height="502" alt="image" src="https://github.com/user-attachments/assets/ef9b5fae-827e-4809-bc35-e65eb75db337" />
 
 
 ## 04-7. 여러 페이지 보고서를 인쇄할 때 확인 사항
 > **해당 내용(200 ~207p)를 진행 후 인증사진을 첨부해주세요.**
-<!-- 이 부분을 지우고 인증사진을 제출해주세요.-->
+
 
 ---
 
