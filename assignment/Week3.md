@@ -75,7 +75,11 @@
 
 ## 04-7. 여러 페이지 보고서를 인쇄할 때 확인 사항
 > **해당 내용(200 ~207p)를 진행 후 인증사진을 첨부해주세요.**
+<img width="959" height="505" alt="image" src="https://github.com/user-attachments/assets/ce73a272-f401-410c-b819-81b59ad2a0fb" />
 
+<img width="959" height="505" alt="image" src="https://github.com/user-attachments/assets/fc3f7c67-9876-4260-9412-77dfcee28f25" />
+
+<img width="959" height="505" alt="image" src="https://github.com/user-attachments/assets/48723072-78c0-4d85-a824-3881dfee4c0d" />
 
 ---
 
