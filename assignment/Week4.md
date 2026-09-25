@@ -42,15 +42,26 @@
 
 ## 05-1. 엑셀 데이터 관리의 기본 규칙
 > **데이터 관리를 할 때 주의해야 할 점에 대해 설명해주세요.**
-<!-- 이 부분을 지우고 작성해주세요.-->
+1. 표와 Raw Data 분리: 보고서용 '표(서식)'와 분석·가공용 '원천 데이터(Raw Data)'는 별도로 구분하여 관리
+2. 세로 방향 누적: 데이터가 추가될 때는 가로로 넓히지 말고 세로 방향(행)으로 쌓아 올려야 수식과 피벗 테이블을 원활하게 활용할 수 있음
+3. 셀 병합 금지: 정렬·필터·수식 계산에 오류를 일으키므로 병합 대신 셀 서식 -> 선택 영역의 가운데로 기능을 사용
+4. 숫자에 문자 혼용 금지: 셀에 100개, 5000원처럼 문자를 함께 적지 말고 순수 숫자만 입력한 뒤 셀 서식(표시 형식)으로 단위를 표시
+5. 숨기기 대신 '그룹' 활용: 단순 열/행 숨기기는 데이터 누락 위험이 있으므로 윤곽 그룹(Alt + Shift + ➔) 기능으로 접고 펼치도록 설정
+6. 단일 머리글 & 빈 셀 관리: 첫 행은 한 줄의 머리글만 배치하고, 중간의 공백 셀은 0이나 하이픈(-)으로 채워 범위 이동 및 수식 오류를 예방
 
 > **여러 시트를 동시에 편집하기(223 ~ 224p)를 진행 후 인증사진을 첨부해주세요.**
-<!-- 이 부분을 지우고 인증사진을 제출해주세요.-->
+<img width="1919" height="1091" alt="image" src="https://github.com/user-attachments/assets/94ea89bb-b2cf-4169-a0c8-689160d9ed17" />
+
+<img width="1919" height="1127" alt="image" src="https://github.com/user-attachments/assets/7ec12c63-9e20-4c80-b5cd-2a8ded6fd95f" />
 
 
 ## 05-2. 나만의 목록을 만들어 원하는 순서대로 정렬하기
 > **데이터에서 고유 값 찾고, 사용자 지정 목록 등록하기(228 ~231p)를 진행 후 인증사진을 첨부해주세요.**
-<!-- 이 부분을 지우고 인증사진을 제출해주세요.-->
+<img width="1919" height="1134" alt="image" src="https://github.com/user-attachments/assets/a741d352-cf9b-442d-bdbb-baf06a4de11a" />
+
+<img width="1919" height="1129" alt="image" src="https://github.com/user-attachments/assets/5daf644c-abb1-467c-919f-4a40bcbd419b" />
+
+<img width="1919" height="1133" alt="image" src="https://github.com/user-attachments/assets/1ff42db8-c0d6-4bd2-8173-8193d5643736" />
 
 
 ## 05-3. 조건에 맞는 데이터만 확인하는 자동 필터
