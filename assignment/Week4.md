@@ -66,15 +66,18 @@
 
 ## 05-3. 조건에 맞는 데이터만 확인하는 자동 필터
 > **자동 필터에서 조건 지정하여 필터링하기(235 ~236p)를 진행 후 인증사진을 첨부해주세요.**
-<!-- 이 부분을 지우고 인증사진을 제출해주세요.-->
+<img width="1919" height="1092" alt="image" src="https://github.com/user-attachments/assets/9aa25b60-0a66-4052-bf3b-44fe61f67896" />
+
+<img width="1919" height="1128" alt="image" src="https://github.com/user-attachments/assets/1220f1a3-8b5c-4ee1-9a9a-00157ee52d1d" />
 
 
 ## 05-4. 자동 필터와 정렬 기능으로 판매 현황 보고서 만들기
 > **매출이익률이 10% 이상인 데이터 필터링(243 ~245p)를 진행 후 인증사진을 첨부해주세요.**
-<!-- 이 부분을 지우고 인증사진을 제출해주세요.-->
+<img width="1919" height="1126" alt="image" src="https://github.com/user-attachments/assets/be000c26-971f-4e9b-8907-a0f8ec738d1c" />
+
 
 > **매출이익 Top 10 필터링 후 시각화하기(246 ~247p)를 진행 후 인증사진을 첨부해주세요.**
-<!-- 이 부분을 지우고 인증사진을 제출해주세요.-->
+<img width="1919" height="1128" alt="image" src="https://github.com/user-attachments/assets/ad22b755-52b9-4c6f-8c04-64431718002e" />
 
 
 ## 05-6. 원본 데이터는 유지하고, 다양한 조건을 지정하는 고급 필터
