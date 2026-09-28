@@ -94,7 +94,8 @@
 
 
 > **원본과 다른 시트에 필터링 결과 추출하기(258 ~260p)를 진행 후 인증사진을 첨부해주세요.**
-<!-- 이 부분을 지우고 인증사진을 제출해주세요.-->
+<img width="1919" height="1127" alt="image" src="https://github.com/user-attachments/assets/bf87b5a8-72a3-43ac-a46b-6b71b44ea5f6" />
+
 
 ---
 
