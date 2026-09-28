@@ -82,10 +82,16 @@
 
 ## 05-6. 원본 데이터는 유지하고, 다양한 조건을 지정하는 고급 필터
 > **여러 고객사 목록을 한방에 필터링하기(251 ~254p)를 진행 후 인증사진을 첨부해주세요.**
-<!-- 이 부분을 지우고 인증사진을 제출해주세요.-->
+<img width="1919" height="1128" alt="image" src="https://github.com/user-attachments/assets/d8a2060b-6586-4f96-b93e-2861485fc3cb" />
+
 
 > **AND, OR 조건으로 고급 필터 실행하기(254 ~257p)를 진행 후 인증사진을 첨부해주세요.**
-<!-- 이 부분을 지우고 인증사진을 제출해주세요.-->
+<img width="1919" height="1122" alt="image" src="https://github.com/user-attachments/assets/0e8f007a-9d6e-4c25-8392-592773d514ab" />
+
+<img width="1919" height="1130" alt="image" src="https://github.com/user-attachments/assets/e292cb2a-4c90-4345-b34a-c25d3095b2c3" />
+
+<img width="1919" height="1129" alt="image" src="https://github.com/user-attachments/assets/9486b08d-1100-4a59-a28d-56bb399d993b" />
+
 
 > **원본과 다른 시트에 필터링 결과 추출하기(258 ~260p)를 진행 후 인증사진을 첨부해주세요.**
 <!-- 이 부분을 지우고 인증사진을 제출해주세요.-->
