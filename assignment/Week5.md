@@ -54,10 +54,15 @@
 
 <img width="1914" height="1126" alt="image" src="https://github.com/user-attachments/assets/25539d6e-ad49-458e-aa8d-197aa2558e5b" />
 
+<img width="1919" height="1128" alt="image" src="https://github.com/user-attachments/assets/8c0d0d22-a1b3-47f2-9981-3bf6c01df787" />
+
+<img width="1919" height="1128" alt="image" src="https://github.com/user-attachments/assets/ae1f5a92-4641-4b67-b6ba-f046fc7ba32b" />
 
 
 > **필드 표시 형식 및 집계 방식 변경하여 매출 현황 분석하기(294 ~298p)를 진행 후 인증사진을 첨부해주세요.**
-<!-- 이 부분을 지우고 인증사진을 제출해주세요.-->
+<img width="1915" height="1127" alt="image" src="https://github.com/user-attachments/assets/4e58cf35-57d9-4b48-be9b-8a8cd68ab479" />
+
+<img width="1919" height="1128" alt="image" src="https://github.com/user-attachments/assets/e318b956-f6c7-4996-9fa1-327e77fded55" />
 
 
 ## 06-3. 피벗 테이블의 값 표시 형식 파악하기
