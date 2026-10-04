@@ -82,7 +82,12 @@
 
 ## 06-4. 데이터를 빠르게 집계하는 그룹 및 정렬 기능
 > **그룹 기능으로 구간별 데이터 분석하기(307 ~309p)를 진행 후 인증사진을 첨부해주세요.**
-<!-- 이 부분을 지우고 인증사진을 제출해주세요.-->
+<img width="1919" height="1127" alt="image" src="https://github.com/user-attachments/assets/1dfae2fe-6c0f-4006-8a41-273b2ba14d2d" />
+
+<img width="1919" height="1133" alt="image" src="https://github.com/user-attachments/assets/8fee5b30-c3fa-445a-915a-544a968ad4d9" />
+
+<img width="1919" height="1129" alt="image" src="https://github.com/user-attachments/assets/0bf27aa1-9b97-4db1-9f2c-0c24e5be5be7" />
+
 
 > **날짜 데이터 그룹화 및 일주일 단위로 구분하기(310 ~312p)를 진행 후 인증사진을 첨부해주세요.**
 <!-- 이 부분을 지우고 인증사진을 제출해주세요.-->
