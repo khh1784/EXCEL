@@ -90,10 +90,27 @@
 
 
 > **날짜 데이터 그룹화 및 일주일 단위로 구분하기(310 ~312p)를 진행 후 인증사진을 첨부해주세요.**
-<!-- 이 부분을 지우고 인증사진을 제출해주세요.-->
+<img width="1919" height="1125" alt="image" src="https://github.com/user-attachments/assets/bdf3cab7-823a-46c1-a64a-fa6d4ab04f23" />
+
+<img width="1917" height="1132" alt="image" src="https://github.com/user-attachments/assets/0e19b82e-70dc-4b90-b22a-51bd493c5bf9" />
+
+<img width="1919" height="1131" alt="image" src="https://github.com/user-attachments/assets/9c46d549-41b7-459c-ae98-41836a12b5d5" />
+
+<img width="1919" height="1129" alt="image" src="https://github.com/user-attachments/assets/ff804824-e1ce-4c49-88b4-98e6dd080f4e" />
+
 
 > **필터 및 정렬 기능으로 우수 고객 빠르게 파악하기(313 ~316p)를 진행 후 인증사진을 첨부해주세요.**
-<!-- 이 부분을 지우고 인증사진을 제출해주세요.-->
+<img width="1919" height="1132" alt="image" src="https://github.com/user-attachments/assets/5d46152d-3caf-4c46-92e9-c3aa7288beed" />
+
+<img width="1919" height="1127" alt="image" src="https://github.com/user-attachments/assets/5e435044-6b4b-44b8-bb3a-8d73477f59e5" />
+
+<img width="1918" height="1132" alt="image" src="https://github.com/user-attachments/assets/cc6d37a8-1c4e-40ab-9b69-51f67ac59780" />
+
+<img width="1919" height="1131" alt="image" src="https://github.com/user-attachments/assets/02d1369a-3a70-4f4f-8924-f6239a6aa587" />
+
+<img width="1919" height="1128" alt="image" src="https://github.com/user-attachments/assets/e5eaba50-584d-479d-930a-cfe70e206f37" />
+
+<img width="1919" height="1129" alt="image" src="https://github.com/user-attachments/assets/1143ae0d-4f43-4d88-8a74-9aff35daf07e" />
 
 
 ## 06-5. 피벗 테이블의 활용도를 높여 줄 유용한 기능
