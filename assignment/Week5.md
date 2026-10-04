@@ -67,10 +67,17 @@
 
 ## 06-3. 피벗 테이블의 값 표시 형식 파악하기
 > **조건부 서식과 값 표시 형식으로 입고 내역 분석하기(300 ~304p)를 진행 후 인증사진을 첨부해주세요.**
-<!-- 이 부분을 지우고 인증사진을 제출해주세요.-->
+<img width="1919" height="1126" alt="image" src="https://github.com/user-attachments/assets/cc9f7a12-1f8e-4bca-8fef-1fed69fb199d" />
+
+<img width="1919" height="1130" alt="image" src="https://github.com/user-attachments/assets/e964dd5a-184d-401a-8e9d-7006bab37e6f" />
+
+<img width="1919" height="1131" alt="image" src="https://github.com/user-attachments/assets/17535fb9-f06f-4366-b6a1-dd274d2438da" />
+
 
 > **값 표시 형식으로 입고 수량의 합계와 비율 표시하기(305 ~306p)를 진행 후 인증사진을 첨부해주세요.**
-<!-- 이 부분을 지우고 인증사진을 제출해주세요.-->
+<img width="1919" height="1129" alt="image" src="https://github.com/user-attachments/assets/54ed128e-46f0-40bc-8854-62e757a2134a" />
+
+<img width="1916" height="1127" alt="image" src="https://github.com/user-attachments/assets/d74e6e40-75b1-4fd5-ac97-b73db135e748" />
 
 
 ## 06-4. 데이터를 빠르게 집계하는 그룹 및 정렬 기능
