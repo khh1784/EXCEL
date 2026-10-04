@@ -115,24 +115,46 @@
 
 ## 06-5. 피벗 테이블의 활용도를 높여 줄 유용한 기능
 > **계산 필드로 매출이익률 구하고 #DIV/O! 오류 해결하기(320 ~322p)를 진행 후 인증사진을 첨부해주세요.**
-<!-- 이 부분을 지우고 인증사진을 제출해주세요.-->
+<img width="1913" height="1131" alt="image" src="https://github.com/user-attachments/assets/c64fd8e8-03cf-4b34-a8c1-ccdced309bd8" />
+
+<img width="1919" height="1126" alt="image" src="https://github.com/user-attachments/assets/852a5765-b1c9-46ea-80d2-2249abcacb8a" />
+
+<img width="1919" height="1126" alt="image" src="https://github.com/user-attachments/assets/3af4e07e-d057-427e-8a41-185ed58cce8f" />
+
 
 > **계산 항목으로 행과 열의 항목 간 계산된 값 추가하기(322 ~325p)를 진행 후 인증사진을 첨부해주세요.**
-<!-- 이 부분을 지우고 인증사진을 제출해주세요.-->
+<img width="1919" height="1133" alt="image" src="https://github.com/user-attachments/assets/0eaded56-be08-401a-ad53-7b2539c0e369" />
+
+<img width="1919" height="1122" alt="image" src="https://github.com/user-attachments/assets/ca4b2237-6d16-443f-bfa5-a765f18575d4" />
 
 
 ## 06-6. 실시간 데이터 분석을 위한 슬라이서, 시간 표시 막대
 > **피벗 레이블의 최강 콤비, 슬라이서 추가하기(326 ~329p)를 진행 후 인증사진을 첨부해주세요.**
-<!-- 이 부분을 지우고 인증사진을 제출해주세요.-->
+<img width="1913" height="1131" alt="image" src="https://github.com/user-attachments/assets/1f80d609-ddd3-4a35-802d-469733f831d3" />
+
+<img width="1919" height="1096" alt="image" src="https://github.com/user-attachments/assets/69558bbc-6b6b-4895-83d4-241cdb462f99" />
+
 
 > **시간 표시 막대와 슬라이서로 날짜 필터링하기(329 ~332p)를 진행 후 인증사진을 첨부해주세요.**
-<!-- 이 부분을 지우고 인증사진을 제출해주세요.-->
+<img width="1919" height="1131" alt="image" src="https://github.com/user-attachments/assets/546d9d65-b4f5-408e-bc30-8edda7c9d3e8" />
+
+<img width="1919" height="1132" alt="image" src="https://github.com/user-attachments/assets/3d96f3ac-f72a-43f1-a25f-fc1c3e2d2e7f" />
+
+<img width="1919" height="1132" alt="image" src="https://github.com/user-attachments/assets/9015fc68-069c-4422-9e49-b1b6cb68356c" />
+
+<img width="1919" height="1132" alt="image" src="https://github.com/user-attachments/assets/47fc7b29-98fd-4b01-95eb-8e733bc8fa6b" />
 
 > **대시보드 제작을 위한 슬라이서 꾸미기(333 ~335p)를 진행 후 인증사진을 첨부해주세요.**
-<!-- 이 부분을 지우고 인증사진을 제출해주세요.-->
+<img width="1919" height="1132" alt="image" src="https://github.com/user-attachments/assets/73cc76f5-e012-4b40-a7e2-18adbde393e3" />
+
+<img width="1919" height="1134" alt="image" src="https://github.com/user-attachments/assets/e02ab967-6d47-4f82-bc8d-9aa53259736e" />
+
+<img width="1912" height="1134" alt="image" src="https://github.com/user-attachments/assets/937273fc-848d-4ec8-9e48-90525210c216" />
 
 > **여러 피벗 테이블을 동시에 필터링하기(336 ~338p)를 진행 후 인증사진을 첨부해주세요.**
-<!-- 이 부분을 지우고 인증사진을 제출해주세요.-->
+<img width="1919" height="1133" alt="image" src="https://github.com/user-attachments/assets/93f92066-d669-4413-a0c1-824bad567d6a" />
+
+<img width="1919" height="1125" alt="image" src="https://github.com/user-attachments/assets/c71a82f1-7f27-4664-addd-04feb38a3b7e" />
 
 
 ---
