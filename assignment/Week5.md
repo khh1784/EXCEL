@@ -41,12 +41,20 @@
 
 ## 06-1. 범위가 자동으로 확장되는 엑셀 표 기능
 > **범위를 표로 변경하고 이름 지정하기(274 ~276p)를 진행 후 인증사진을 첨부해주세요.**
-<!-- 이 부분을 지우고 인증사진을 제출해주세요.-->
+<img width="1919" height="1124" alt="image" src="https://github.com/user-attachments/assets/a17bc3f7-71c5-4171-914c-d71dd9fcfcba" />
+
+<img width="1919" height="1124" alt="image" src="https://github.com/user-attachments/assets/49ff3f71-045d-4230-bf79-64e58bab8393" />
+
+<img width="1919" height="1130" alt="image" src="https://github.com/user-attachments/assets/549c0c7b-88f7-4470-83b6-4ff91fff2f68" />
 
 
 ## 06-2. 원하는 형태로 재정렬한 피벗 테이블 만들기
 > **피벗 테이블 레이아웃 변경 및 꾸미기(289 ~294p)를 진행 후 인증사진을 첨부해주세요.**
-<!-- 이 부분을 지우고 인증사진을 제출해주세요.-->
+<img width="1919" height="1127" alt="image" src="https://github.com/user-attachments/assets/384077f4-e12a-45fb-9609-e93089d95502" />
+
+<img width="1914" height="1126" alt="image" src="https://github.com/user-attachments/assets/25539d6e-ad49-458e-aa8d-197aa2558e5b" />
+
+
 
 > **필드 표시 형식 및 집계 방식 변경하여 매출 현황 분석하기(294 ~298p)를 진행 후 인증사진을 첨부해주세요.**
 <!-- 이 부분을 지우고 인증사진을 제출해주세요.-->
