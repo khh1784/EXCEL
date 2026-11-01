@@ -1,4 +1,4 @@
-# Excel 6주차 정규 과제 
+<img width="959" height="563" alt="image" src="https://github.com/user-attachments/assets/1cfabce4-570b-491f-9306-365bb7f47507" /># Excel 6주차 정규 과제 
 
 📌Excel 정규과제는 매주 정해진 분량의 『*진짜 쓰는 실무 엑셀*』 을 읽고 학습하는 것입니다. 이번주는 아래의 **EXCEL_6th_TIL**에 나열된 분량을 읽고 공부하시면 됩니다.
 
@@ -138,17 +138,33 @@
 
 ## 07-5. 실무에서 발생하는 어려움을 해결하는 필수 함수 공식
 > **여러 조건을 비교해서 결과 출력하기, 다중 조건 IF 함수(403 ~ 407p)를 진행 후 인증사진을 첨부해주세요.**
-<!-- 이 부분을 지우고 인증사진을 제출해주세요.-->
+<img width="957" height="563" alt="image" src="https://github.com/user-attachments/assets/430fd8df-59dd-4546-91ed-60ae5af44aad" />
+
+<img width="959" height="566" alt="image" src="https://github.com/user-attachments/assets/20cd276e-b884-42d0-8899-7c08748aa3b1" />
+
 
 > **단어의 포함 여부를 검색하는 ISNUMBER, SEARCH 함수 공식(407 ~ 411p)를 진행 후 인증사진을 첨부해주세요.**
-<!-- 이 부분을 지우고 인증사진을 제출해주세요.-->
+<img width="959" height="563" alt="image" src="https://github.com/user-attachments/assets/2b538755-f993-4793-9dd7-8d80b1cb3e40" />
+
+<img width="959" height="563" alt="image" src="https://github.com/user-attachments/assets/45df97e7-66e6-400b-8793-2fa5327ac1cd" />
+
+<img width="956" height="566" alt="image" src="https://github.com/user-attachments/assets/0e82936b-c7c1-4329-9cf4-cd4cd7dcc54c" />
+
 
 > **VLOOKUP 함수의 단점을 해결해 주는 INDEX/MATCH 함수 공식(412 ~ 415p)를 진행 후 인증사진을 첨부해주세요.**
-<!-- 이 부분을 지우고 인증사진을 제출해주세요.-->
+<img width="959" height="563" alt="image" src="https://github.com/user-attachments/assets/77d121e3-1eb3-4ea9-8c42-a8901b290b16" />
+
+<img width="959" height="566" alt="image" src="https://github.com/user-attachments/assets/3070b2be-07a9-472c-ab6e-657e30fb3e0c" />
+
+<img width="959" height="563" alt="image" src="https://github.com/user-attachments/assets/aebadd94-de92-49d9-b7f2-b67d17a84df4" />
+
 
 > **여러 조건을 만족하는 결과 겁색하기, VLOOKUP 다중 조건 공식(415 ~ 417p)를 진행 후 인증사진을 첨부해주세요.**
-<!-- 이 부분을 지우고 인증사진을 제출해주세요.-->
+<img width="959" height="565" alt="image" src="https://github.com/user-attachments/assets/0b18bf19-fa4a-4906-aee7-258ec49f2110" />
 
+<img width="957" height="563" alt="image" src="https://github.com/user-attachments/assets/93b09306-08c7-4fa5-b938-17fd25e5bfcf" />
+
+<img width="959" height="563" alt="image" src="https://github.com/user-attachments/assets/2db21840-d7ca-4b0a-a1bf-9ad77567bef8" />
 
 ---
 
