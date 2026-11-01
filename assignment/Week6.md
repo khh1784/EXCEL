@@ -40,21 +40,38 @@
 
 ## 07-1. 엑셀 기초 계산 함수와 통계 함수 사용하기
 > **SUM, AVERAGE, COUNTA 함수로 재고 현황 파악하기(342 ~ 344p)를 진행 후 인증사진을 첨부해주세요.**
-<!-- 이 부분을 지우고 인증사진을 제출해주세요.-->
+<img width="959" height="565" alt="image" src="https://github.com/user-attachments/assets/be5a5c7d-bd0f-45f6-b380-dd791a3072b5" />
+
 
 > **MAX, MIN, LARGE, SMALL 함수로 만족도 통계 구하기(345 ~ 347p)를 진행 후 인증사진을 첨부해주세요.**
-<!-- 이 부분을 지우고 인증사진을 제출해주세요.-->
+<img width="959" height="564" alt="image" src="https://github.com/user-attachments/assets/bcfdf760-ee5c-405f-a73c-079e54a344a4" />
+
+<img width="959" height="563" alt="image" src="https://github.com/user-attachments/assets/cca33671-3c22-4af4-825b-d29870a9cee7" />
 
 
 ## 07-2. 논리 함수, 참조 함수, 집계 함수
 > **IF 함수로 성적 관리하기(348 ~ 350p)를 진행 후 인증사진을 첨부해주세요.**
-<!-- 이 부분을 지우고 인증사진을 제출해주세요.-->
+<img width="959" height="565" alt="image" src="https://github.com/user-attachments/assets/c87ff87e-ef84-4250-b73f-b0d25418d25c" />
+
+<img width="959" height="565" alt="image" src="https://github.com/user-attachments/assets/ade033f8-c443-424e-a10f-0536cd2c81dc" />
+
 
 > **VLOOKUP, IFERROR 함수로 재고 현황 관리하기(351 ~ 355p)를 진행 후 인증사진을 첨부해주세요.**
-<!-- 이 부분을 지우고 인증사진을 제출해주세요.-->
+<img width="959" height="562" alt="image" src="https://github.com/user-attachments/assets/e17c842d-1f88-41b7-be4c-292b1b55cba1" />
+
+<img width="959" height="565" alt="image" src="https://github.com/user-attachments/assets/54f2e40b-df2e-4fb1-9582-0a0ad5096eb9" />
+
+<img width="959" height="563" alt="image" src="https://github.com/user-attachments/assets/28d5cf0c-b5c2-4c6c-b805-9778673f17f8" />
+
 
 > **SUMIF, COUNTIF, AVERAGEIF 함수로 매출, 배송 현황 관리(355 ~ 365p)를 진행 후 인증사진을 첨부해주세요.**
-<!-- 이 부분을 지우고 인증사진을 제출해주세요.-->
+<img width="959" height="564" alt="image" src="https://github.com/user-attachments/assets/5742a129-9859-4164-a5a1-c68730d28497" />
+
+<img width="959" height="563" alt="image" src="https://github.com/user-attachments/assets/c5c651b7-486e-49b4-b2cb-9ee4a3905d1e" />
+
+<img width="959" height="563" alt="image" src="https://github.com/user-attachments/assets/f2725899-6a70-4dd5-914e-8206e4b595a9" />
+
+<img width="959" height="562" alt="image" src="https://github.com/user-attachments/assets/44674754-e00b-4c9a-bf98-10e1fa5c12e1" />
 
 
 ## 07-3. 엑셀의 활용도를 올려 줄 실무 보조 함수
