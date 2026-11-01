@@ -102,16 +102,38 @@
 
 ## 07-4. 더 강력해진 기능의 엑셀 2021 이후 버전, M365 신규 함수
 > **최신 버전 엑셀에서 배열 사용하기(391 ~ 392p)를 진행 후 인증사진을 첨부해주세요.**
-<!-- 이 부분을 지우고 인증사진을 제출해주세요.-->
+<img width="959" height="563" alt="image" src="https://github.com/user-attachments/assets/27ceb7f6-6d87-42ea-ad1e-8c9e70805c4c" />
+
+<img width="959" height="560" alt="image" src="https://github.com/user-attachments/assets/e0b2f2bc-9f06-4782-a63f-4f386bf134f8" />
+
+<img width="957" height="563" alt="image" src="https://github.com/user-attachments/assets/07ed0d1f-aae8-4f8a-a4fe-354ebc6ba758" />
+
+<img width="959" height="565" alt="image" src="https://github.com/user-attachments/assets/131309a0-b3fc-408f-bf14-81165c8c463f" />
+
+<img width="959" height="565" alt="image" src="https://github.com/user-attachments/assets/f2af05be-a9bf-4df0-8eb4-95ae2565d943" />
+
 
 > **VLOOKUP보다 중요한 필수 신규 함수, FILTER(393 ~ 396p)를 진행 후 인증사진을 첨부해주세요.**
-<!-- 이 부분을 지우고 인증사진을 제출해주세요.-->
+<img width="959" height="563" alt="image" src="https://github.com/user-attachments/assets/896b93ce-86cf-41d5-8f07-5e2a4cbb666d" />
+
+<img width="959" height="564" alt="image" src="https://github.com/user-attachments/assets/dd1dfb51-e198-4a4b-ae62-fa7c85abcc3f" />
+
+<img width="959" height="563" alt="image" src="https://github.com/user-attachments/assets/3157313f-0e5d-432c-b9db-de9f251de2f6" />
 
 > **이름만으로도 강력해 보이는 M365 신규 함수, XLOOKUP(396 ~ 398p)를 진행 후 인증사진을 첨부해주세요.**
-<!-- 이 부분을 지우고 인증사진을 제출해주세요.-->
+<img width="959" height="565" alt="image" src="https://github.com/user-attachments/assets/ea9c267b-b214-4b98-9057-584045bcc18b" />
+
+<img width="959" height="564" alt="image" src="https://github.com/user-attachments/assets/bb0ec410-9fb1-4b2e-bf04-75dfeb362a42" />
+
 
 > **다른 기능과 만나면 활용도가 배가 되는 UNIQUE, SORT 함수(399 ~ 402p)를 진행 후 인증사진을 첨부해주세요.**
-<!-- 이 부분을 지우고 인증사진을 제출해주세요.-->
+<img width="958" height="564" alt="image" src="https://github.com/user-attachments/assets/c0d6db5f-3646-4882-8051-a389cc600266" />
+
+<img width="959" height="562" alt="image" src="https://github.com/user-attachments/assets/e3f4b54b-dbf0-4266-ad49-43a439552c97" />
+
+<img width="956" height="563" alt="image" src="https://github.com/user-attachments/assets/eb7c41bf-1272-444d-ac32-22d99369004a" />
+
+<img width="959" height="565" alt="image" src="https://github.com/user-attachments/assets/58de2eca-af08-4dee-9877-2877c9746e9b" />
 
 
 ## 07-5. 실무에서 발생하는 어려움을 해결하는 필수 함수 공식
