@@ -76,16 +76,28 @@
 
 ## 07-3. 엑셀의 활용도를 올려 줄 실무 보조 함수
 > **LEFT, RIGHT, MID 함수로 텍스트 가공하기(366 ~ 370p)를 진행 후 인증사진을 첨부해주세요.**
-<!-- 이 부분을 지우고 인증사진을 제출해주세요.-->
+<img width="959" height="563" alt="image" src="https://github.com/user-attachments/assets/d4d4da05-d5b4-485c-94ad-04b7159430c6" />
+
+<img width="959" height="569" alt="image" src="https://github.com/user-attachments/assets/80aa9f51-6a9a-4d7b-829b-08e32bbd70a8" />
+
 
 > **TRIM 함수 사용으로 보이지 않는 문자로 인한 오류 방지하기(370 ~ 373p)를 진행 후 인증사진을 첨부해주세요.**
-<!-- 이 부분을 지우고 인증사진을 제출해주세요.-->
+<img width="959" height="563" alt="image" src="https://github.com/user-attachments/assets/6b86f5c8-608f-47d9-b402-8a4b49ad910b" />
+
+<img width="959" height="563" alt="image" src="https://github.com/user-attachments/assets/f155730a-3828-4004-a363-01dd584faf23" />
+
+<img width="959" height="563" alt="image" src="https://github.com/user-attachments/assets/a139bd2a-d74a-428c-b9ac-87455252c610" />
 
 > **TODAY, DATE, YEAR/MONTH/DATE 함수로 날짜 구하기(381 ~ 383p)를 진행 후 인증사진을 첨부해주세요.**
-<!-- 이 부분을 지우고 인증사진을 제출해주세요.-->
+<img width="959" height="563" alt="image" src="https://github.com/user-attachments/assets/c3be5b6c-ad63-4594-9052-d5979b6bfd20" />
+
 
 > **INDIRECT 함수로 여러 시트 실시간 참조하기(385 ~ 388p)를 진행 후 인증사진을 첨부해주세요.**
-<!-- 이 부분을 지우고 인증사진을 제출해주세요.-->
+<img width="959" height="563" alt="image" src="https://github.com/user-attachments/assets/7bcef6d8-64fb-4964-ab1a-1f1089146b48" />
+
+<img width="959" height="563" alt="image" src="https://github.com/user-attachments/assets/0f52663d-95e9-4351-9d5a-4c1ad50593e0" />
+
+<img width="959" height="563" alt="image" src="https://github.com/user-attachments/assets/58cc6f48-e840-4c78-b39b-f0ece41d9ee1" />
 
 
 ## 07-4. 더 강력해진 기능의 엑셀 2021 이후 버전, M365 신규 함수
