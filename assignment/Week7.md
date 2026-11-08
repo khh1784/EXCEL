@@ -40,7 +40,9 @@
 
 ## 08-2. 실무에서 사용하는 엑셀 차트 기본 공식
 > **5단계 과정에 따라 차트 완성하기(435 ~ 444p)를 진행 후 인증사진을 첨부해주세요.**
-<!-- 이 부분을 지우고 인증사진을 제출해주세요.-->
+<img width="959" height="563" alt="image" src="https://github.com/user-attachments/assets/fbbc1a89-12a2-491b-88de-5cf92f047e2e" />
+
+<img width="959" height="546" alt="image" src="https://github.com/user-attachments/assets/f3b4aeae-d7ac-4a2a-a7d5-3e707771cccb" />
 
 
 ## 08-3. 직장인이라면 반드시 기억해야 할 실무 차트 5가지
